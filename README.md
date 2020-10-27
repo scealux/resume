@@ -14,29 +14,25 @@
 
 Alex Fiel - alex@alexfiel.com - https://alexfiel.com
 
--------------// 𝕊𝕦𝕞𝕞𝕒𝕣𝕪 //-------------
-
+<h2> 𝕊𝕦𝕞𝕞𝕒𝕣𝕪 <h2>  
 Capable creative designer who works best at the intersection between art and technology. Whatever medium, my
 favorite kind of work is that which leverages technology to create impactful experiences.
 
--------------// 𝕊𝕖𝕝𝕖𝕔𝕥 𝕊𝕜𝕚𝕝𝕝𝕤 //-------------
-
+-------------// 𝕊𝕖𝕝𝕖𝕔𝕥 𝕊𝕜𝕚𝕝𝕝𝕤 //-------------  
 Front-End Web Development • 3D-Printing (FDM & MSLA) • User Experience Design • User Interface Design
 Rapid Prototyping • Product Design • Presentation • User Testing • Fabrication • Research
 
--------------// 𝕊𝕖𝕝𝕖𝕔𝕥 𝕋𝕠𝕠𝕝𝕤 //-------------
-
+-------------// 𝕊𝕖𝕝𝕖𝕔𝕥 𝕋𝕠𝕠𝕝𝕤 //-------------  
 Adobe Creative Suite (Ps, Ai, Xd…) • HTML - CSS - Javascript (ES6) • Arduino (Microcontrollers)
 AliceVision Meshroom • Autodesk Fusion 360 • Visual Studio Code • Three.js & GSAP.js
 Google Firebase • InVision • Figma • Blender
 
-------------// 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 //-------------
-
+------------// 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 //-------------  
 University of Colorado Boulder<br/>
-  B.S. Technology, Arts & Media | ‘16-’20<br/>
-    ▪ Outstanding Undergraduate Award -> https://bit.ly/FielBio
-    ▪ Graduated Magna Cum Laude
-      GPA: 3.84 (overall) - 4.0 (major)
+  B.S. Technology, Arts & Media | ‘16-’20  
+    ▪ Outstanding Undergraduate Award -> https://bit.ly/FielBio  
+    ▪ Graduated Magna Cum Laude<br/>
+      GPA: 3.84 (overall) - 4.0 (major)<br/>
 
 Watson Institute
   Semester Incubator | Spring ‘18
