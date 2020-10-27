@@ -32,8 +32,8 @@ Google Firebase • InVision • Figma • Blender
 
 ------------// 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 //-------------
 
-University of Colorado Boulder
-  B.S. Technology, Arts & Media | ‘16-’20
+University of Colorado Boulder<br/>
+  B.S. Technology, Arts & Media | ‘16-’20<br/>
     ▪ Outstanding Undergraduate Award -> https://bit.ly/FielBio
     ▪ Graduated Magna Cum Laude
       GPA: 3.84 (overall) - 4.0 (major)
