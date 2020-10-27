@@ -12,22 +12,22 @@
          -ohNNNNNNdy+NNNN++NNNN`                                                                                              
              ````                          
 
-Alex Fiel - alex@alexfiel.com - https://alexfiel.com
+<h1> Alex Fiel - alex@alexfiel.com - https://alexfiel.com </h1>
 
-<h2> 𝕊𝕦𝕞𝕞𝕒𝕣𝕪 <h2>  
+<h2> -------------// 𝕊𝕦𝕞𝕞𝕒𝕣𝕪 //------------- </h2>
 Capable creative designer who works best at the intersection between art and technology. Whatever medium, my
 favorite kind of work is that which leverages technology to create impactful experiences.
 
--------------// 𝕊𝕖𝕝𝕖𝕔𝕥 𝕊𝕜𝕚𝕝𝕝𝕤 //-------------  
+<h2> -------------// 𝕊𝕖𝕝𝕖𝕔𝕥 𝕊𝕜𝕚𝕝𝕝𝕤 //------------- </h2>  
 Front-End Web Development • 3D-Printing (FDM & MSLA) • User Experience Design • User Interface Design
 Rapid Prototyping • Product Design • Presentation • User Testing • Fabrication • Research
 
--------------// 𝕊𝕖𝕝𝕖𝕔𝕥 𝕋𝕠𝕠𝕝𝕤 //-------------  
+<h2> -------------// 𝕊𝕖𝕝𝕖𝕔𝕥 𝕋𝕠𝕠𝕝𝕤 //------------- </h2>  
 Adobe Creative Suite (Ps, Ai, Xd…) • HTML - CSS - Javascript (ES6) • Arduino (Microcontrollers)
 AliceVision Meshroom • Autodesk Fusion 360 • Visual Studio Code • Three.js & GSAP.js
 Google Firebase • InVision • Figma • Blender
 
-------------// 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 //-------------  
+<h2> ------------// 𝔼𝕕𝕦𝕔𝕒𝕥𝕚𝕠𝕟 //------------- </h2>  
 University of Colorado Boulder<br/>
   B.S. Technology, Arts & Media | ‘16-’20  
     ▪ Outstanding Undergraduate Award -> https://bit.ly/FielBio  
@@ -42,7 +42,7 @@ Aims Community College
     ▪ 30 + course credits earned before graduating from High School
       GPA: 4.0 (overall)
 
--------------// 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖 //-------------
+<h2> -------------// 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖 //------------- </h2>
 Fiske Planetarium
   Exhibit Designer | Nov ‘19 - June ‘20
     Designing exhibits to fit content / budget / space requirements for CU
@@ -66,7 +66,7 @@ Openly One Inc.
     identity. Designed mockups of screens , interactions, and user flows.
     
 
--------------// ℍ𝕚𝕘𝕙𝕝𝕚𝕘𝕙𝕥𝕖𝕕 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 //-------------                  ( see more at alexfiel.com )
+<h2> -------------// ℍ𝕚𝕘𝕙𝕝𝕚𝕘𝕙𝕥𝕖𝕕 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤 //------------- </h2>
 fishcity.co - Unreleased / ongoing
   Creating an online education platform based around navigating and organizing educational content into a 3D city visualization.
     ▪ Self-taught GSAP & Three.js for the frontend
