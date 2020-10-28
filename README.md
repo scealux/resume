@@ -1,4 +1,4 @@
-# **Alex Fiel** - <alex@alexfiel.com> - [Portfolio Website](https://alexfiel.com)
+# **Alex Fiel** - <alex@alexfiel.com> - [alexfiel.com](https://alexfiel.com)
 
 ---
 
