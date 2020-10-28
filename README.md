@@ -18,8 +18,8 @@ Google Firebase • InVision • Figma • Blender
 ## Education   
 #### University of Colorado Boulder
   **B.S. Technology, Arts & Media | ‘16-’20**     
-    + [Outstanding Undergraduate Award](https://bit.ly/FielBio)    
-    + Graduated Magna Cum Laude  
+    * [Outstanding Undergraduate Award](https://bit.ly/FielBio)    
+    * Graduated Magna Cum Laude  
       GPA: 3.84 (overall) - 4.0 (major)  
 
 #### Watson Institute
@@ -27,7 +27,7 @@ Google Firebase • InVision • Figma • Blender
 
 #### Aims Community College
   **General Education | 13’-16’**    
-    + 30 + course credits earned before graduating from High School  
+    * 30 + course credits earned before graduating from High School  
       GPA: 4.0 (overall)
 
 ## Experience
